@@ -1,4 +1,5 @@
 🚀 Project Overview
+
 R.A.S.S - An Embedded Web Server
 
 R.A.S.S stands for Rishi, Anirudh, Sumedh and Swaminath, is a project that implements a complete embedded web server solution that enables IoT functionality for ARM-based embedded systems. The system combines hardware-level Ethernet communication with a robust web server framework to provide real-time sensor monitoring and control capabilities.
